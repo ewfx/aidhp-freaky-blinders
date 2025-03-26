@@ -2,7 +2,7 @@
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
-- [Demo](#demo) -  https://drive.google.com/file/d/1fiBii5TVL6djQc8MdGpVzChnN5SVLgSm/view
+- [Demo](#demo) -  
 - [Inspiration](#inspiration)
 - [What It Does](#what-it-does)
 - [How We Built It](#how-we-built-it)
@@ -17,6 +17,7 @@
 We’re embarking on an exciting journey to revolutionize how people discover the perfect banking products and services. Through the power of AI, our project is designed to deliver personalized recommendations tailored precisely to each user—considering factors like age, income, interests, and more. But that's not all! By blending in sentiment analysis, we’re adding an extra layer of intelligence to ensure the results resonate even more deeply with user needs. 
 
 ## 🎥 Demo
+Please find demo link to google drive - https://drive.google.com/file/d/1fiBii5TVL6djQc8MdGpVzChnN5SVLgSm/view
 🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
