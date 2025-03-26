@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 AI-Driven Hyper-Personalization & Recommendations
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+We are building an AI driven project to recommend users personalized banking products or services which are most suitable for them based on multiple criteria like age, income, field of interest etc. and adding a flovour of sentiment analysis to get better result :)
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
@@ -24,7 +24,7 @@ A brief overview of your project and its purpose. Mention which problem statemen
 ![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+In today's fast-paced digital era, banks present a myriad of products—credit cards, debit cards, loans, and more—making it challenging for users to identify the ideal choice for their needs. Meanwhile, marketing teams often face the task of repeatedly reaching out to customers to promote these offerings. To simplify decision-making and empower users with tailored choices, we are developing an AI-driven recommendation engine designed to cut through the confusion and deliver the perfect solution effortlessly.
 
 ## ⚙️ What It Does
 Explain the key features and functionalities of your project.
@@ -50,11 +50,11 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+-OpenAI GPT-4, Chroma DB(Vector DB), Python Libraries line Pandas, Numpy, ScikitLearn etc.
+- Used n8n to create chatbot
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- Sandeep Kandala
+- Sriramulu N. Yandrapu
+- Debjeet Poddar
+- Dileep Chittamuru
