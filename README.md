@@ -36,17 +36,10 @@ Briefly outline the technologies, frameworks, and tools used in development.
 Describe the major technical or non-technical challenges your team encountered.
 
 ## 🏃 How to Run
-1. Clone the repository  
-   ```sh
-   git clone https://github.com/your-repo.git
-   ```
-2. Install dependencies  
-   ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
-   ```
-3. Run the project  
-   ```sh
-   npm start  # or python app.py
+we have added a demo video which we hosted using n8n the application which can be tested in this link : https://freakyblinders.app.n8n.cloud/webhook/ea184fc4-0177-449a-b261-cb98ba0fbb88/chat
+Please run the above link to open chatbot and use customers from datasets added 
+Example: Please suggest suitable banking product for Noah Martin
+Please determine sentiment of Noah Martin
    ```
 
 ## 🏗️ Tech Stack
