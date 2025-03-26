@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-We are building an AI driven project to recommend users personalized banking products or services which are most suitable for them based on multiple criteria like age, income, field of interest etc. and adding a flovour of sentiment analysis to get better result :)
+We’re embarking on an exciting journey to revolutionize how people discover the perfect banking products and services. Through the power of AI, our project is designed to deliver personalized recommendations tailored precisely to each user—considering factors like age, income, interests, and more. But that's not all! By blending in sentiment analysis, we’re adding an extra layer of intelligence to ensure the results resonate even more deeply with user needs. 
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
